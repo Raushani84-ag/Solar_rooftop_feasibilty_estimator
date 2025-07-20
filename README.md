@@ -26,7 +26,7 @@ A simple and intuitive web application to calculate the feasibility and payback 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/solar-feasibility-calculator.git
+   git clone https://github.com/Raushani84-ag/solar-feasibility-calculator.git
    cd solar-feasibility-calculator
    ```
 
